@@ -23,17 +23,19 @@ Workflow Improvement | Record & Data Management | Inventory & Supply Chain | Pay
 **Communication:**  Business Correspondence | Report Writing | Stakeholder & Vendor Coordination | Team Morale Building  
 **Technical:**   Microsoft Office Suite (Advanced Excel) | IT System Support | Network Basics  
 
-**KEY PROJECTS:**
-•	Dhaka-Chattogram 4-Laning Project.
-[2012 – 2017]
-•	Kishoreganj-Bhairab Road Project. 
-	[2018 – 2020]
-•	Ujanchar-Bajitpur Road Project. 	
-[2019 – 2020]
-•	Kishoreganj-Karimganj-Chamraghat Road Project.
-[2021 – 2026]
-•	Ishwarganj-Attharobary Road Project. 	
-[2021 – 2026]
-•	Gouripur-Hossainpur Road Project, 
-	Package-01 & 02.
-	[2023 – 2026]
+**KEY PROJECTS:**  
+•	Dhaka-Chattogram 4-Laning Project.  
+[2012 – 2017]  
+•	Kishoreganj-Bhairab Road Project.   
+	[2018 – 2020]  
+•	Ujanchar-Bajitpur Road Project.   	
+[2019 – 2020]  
+•	Kishoreganj-Karimganj-Chamraghat Road Project.  
+[2021 – 2026]  
+•	Ishwarganj-Attharobary Road Project. 	  
+[2021 – 2026]  
+•	Gouripur-Hossainpur Road Project,   
+	Package-01 & 02.  
+	[2023 – 2026]  
+
+	
