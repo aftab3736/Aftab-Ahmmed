@@ -1,5 +1,5 @@
-# Aftab-Ahmmed
-Administrative Officer 
+# **Aftab Ahmmed**
+**Administrative Officer**
 
 **PROFESSIONAL SUMMARY:**
 
@@ -38,4 +38,11 @@ Workflow Improvement | Record & Data Management | Inventory & Supply Chain | Pay
 	Package-01 & 02.  
 	[2023 – 2026]  
 
-	
+**EDUCATION**
+# Bachelor of Social Science (BSS)  
+Major : Social Science  
+Graduated : 2004  
+Chattogram, Bangladesh.  
+
+
+
