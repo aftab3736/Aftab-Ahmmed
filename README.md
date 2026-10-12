@@ -41,8 +41,18 @@ Workflow Improvement | Record & Data Management | Inventory & Supply Chain | Pay
 # EDUCATION
 **Bachelor of Social Science (BSS)**
 Major : Social Science  
-Graduated : 2004  
+Graduated : 2004    
 Chattogram, Bangladesh.  
+
+## CERTIFICATIONS  
+• Construction Site Management  
+• Human Resource Leadership Course  
+• Computer Hardware Basics – Cisco (2026)  
+• Networking Basics – Cisco   
+• Cyber Security Threats & Mitigations – Microsoft   
+• Introduction to Cybersecurity – Cisco  
+
+
 
 
 
