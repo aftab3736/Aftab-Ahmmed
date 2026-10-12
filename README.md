@@ -19,6 +19,6 @@ Managed logistics and admin operations for 6 large-scale infrastructure projects
 
 **SKILLS & COMPETENCIES**  
 **Core:** **Office Administration** 
-Workflow Improvement | Record & Data Management | Inventory & Supply Chain | Payroll & Timekeeping | Travel & Logistics Coordination
-**Communication:**  Business Correspondence | Report Writing | Stakeholder & Vendor Coordination | Team Morale Building
-**Technical:**   Microsoft Office Suite (Advanced Excel) | IT System Support | Network Basics
+Workflow Improvement | Record & Data Management | Inventory & Supply Chain | Payroll & Timekeeping | Travel & Logistics Coordination  
+**Communication:**  Business Correspondence | Report Writing | Stakeholder & Vendor Coordination | Team Morale Building  
+**Technical:**   Microsoft Office Suite (Advanced Excel) | IT System Support | Network Basics  
