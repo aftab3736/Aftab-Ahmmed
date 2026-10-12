@@ -13,3 +13,5 @@ Steel Mill Bazar, North Patenga, Chattogram, Bangladesh.
 [From 2012 to 2026]  
 
 Directed staff logistics, external communications, and workflow coordination for large-scale infrastructure projects, managing accommodation and operational needs for 200+ employees. Streamlined office systems through analytical troubleshooting of IT issues and optimization of Excel processes, while administering payroll, timekeeping, and inventory with precision to ensure full compliance. Strengthened team morale and cohesion through strong, consistent communication, maintaining resilience and adaptability under pressure in a fast-paced, multi-project environment.
+**KEY ACHIEVEMENT:**
+Managed logistics and admin operations for 6 large-scale infrastructure projects, supporting employees across multiple sites - including full oversight of security, fire safety, compliance, transport, and general administration, with direct liaison to Police, Fire Service and Civil Defense, district/local administration, and other government bodies
