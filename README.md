@@ -16,3 +16,9 @@ Directed staff logistics, external communications, and workflow coordination for
 
 **KEY ACHIEVEMENT:**  
 Managed logistics and admin operations for 6 large-scale infrastructure projects, supporting employees across multiple sites - including full oversight of security, fire safety, compliance, transport, and general administration, with direct liaison to Police, Fire Service and Civil Defense, district/local administration, and other government bodies
+
+**SKILLS & COMPETENCIES**  
+**Core:** **Office Administration** 
+Workflow Improvement | Record & Data Management | Inventory & Supply Chain | Payroll & Timekeeping | Travel & Logistics Coordination
+**Communication:**  Business Correspondence | Report Writing | Stakeholder & Vendor Coordination | Team Morale Building
+**Technical:**   Microsoft Office Suite (Advanced Excel) | IT System Support | Network Basics
